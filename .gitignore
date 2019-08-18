@@ -1,0 +1,18 @@
+# Output file
+output.mid
+
+# GarageBand project
+*.band
+
+# Finalized composition
+*.wav
+
+# Media
+*.mov
+*.png
+
+# Project description
+*.pdf
+
+# macOS
+.DS_Store
